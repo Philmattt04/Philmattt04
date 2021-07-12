@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Philmattt04
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Philmattt04/Philmattt04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+Hi, I'm @Philmattt04. I'm currently learning SQL database. I started learing it a week ago and I've already learned how to create tables, store data onto tables,
+and create queries. I learned all of these new skills from https://www.khanacademy.org/computing/computer-programming/sql. I am looking forward to learning even more on SQL!
